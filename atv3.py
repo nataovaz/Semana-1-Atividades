@@ -12,6 +12,7 @@ trapezio = ((a+b)*c)/2
 quadrado = b*b
 retangulo = a*b
 
+#.3f é para imprimir apenas 3 casas decimais após a vírgula
 print("TRIANGULO: {:.3f}".format(triangulo))
 print("CIRCULO: {:.3f}".format(circulo))
 print("TRAPEZIO: {:.3f}".format(trapezio))
